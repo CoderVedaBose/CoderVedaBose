@@ -1,16 +1,61 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Bedanto Bose</h1>
+<h3 align="center">🚀 Python Developer | 📊 Data Science Enthusiast</h3>
 
-<!--
-**CoderVedaBose/CoderVedaBose** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=500&lines=Python+Developer;Data+Science+Enthusiast;Learning+DSA+%26+Machine+Learning;Love+Solving+Real-World+Problems" alt="Typing SVG" />
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧑‍💻 About Me
+
+- 🚀 Passionate **Python Developer** & **Data Science Enthusiast**
+- 🌱 Currently exploring **DSA, Machine Learning & Frontend Development**
+- ⚡ Love solving **real-world problems** using code
+- 📈 Interested in data-driven decision making and analytics
+
+---
+
+## 🛠️ Skills & Tech Stack
+
+### 🚀 Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=python,c,cpp" />
+</p>
+
+### 📚 Libraries & Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=numpy,pandas,matplotlib" />
+</p>
+
+- **Machine Learning:** scikit-learn  
+- **Database:** SQL  
+
+---
+
+## 🌐 Connect with Me
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/bedanto-bose-b4155032a" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
+  </a>
+  <a href="https://www.instagram.com/_.itz_bedanto._720/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-pink?style=for-the-badge&logo=instagram" />
+  </a>
+  <a href="https://x.com/BedantoBose" target="_blank">
+    <img src="https://img.shields.io/badge/X-black?style=for-the-badge&logo=x" />
+  </a>
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=BedantoBose&show_icons=true&theme=tokyonight" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=BedantoBose&theme=tokyonight" height="165"/>
+</p>
+
+---
+
+✨ **"Code. Learn. Analyze. Innovate."** 🚀
