@@ -57,11 +57,10 @@
 
 ## 📊 GitHub Metrics
 
-<p align="center">
-  <img
-<br> src="https://metrics.lecoq.io/CoderVedaBose?template=classic&isocalendar=1&languages=1&activity=1" />
-<br>
-</p>
+
+## 📊 GitHub Activity
+
+![Metrics](https://metrics.lecoq.io/CoderVedaBose?template=classic&isocalendar=1&languages=1&activity=1)
 
 ---
 
