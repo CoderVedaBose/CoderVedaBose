@@ -57,8 +57,7 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://metrics.lecoq.io/YOUR_USERNAME?template=classic&isocalendar=1&languages=1&activity=1"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=CoderVedaBose&theme=tokyonight" height="165"/>
+  <img src="https://metrics.lecoq.io/CoderVedaBose?template=classic&isocalendar=1&languages=1&activity=1"/>
 </p>
 
 ---
