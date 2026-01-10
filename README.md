@@ -59,7 +59,7 @@
 ## 📊 GitHub Metrics
 
 <p align="center">
-  <img src="https://metrics.lecoq.io/YOUR_USERNAME?template=classic&isocalendar=1&languages=1&activity=1" />
+  <img src="https://metrics.lecoq.io/CoderVedaBose?template=classic&isocalendar=1&languages=1&activity=1" />
 </p>
 
 ---
