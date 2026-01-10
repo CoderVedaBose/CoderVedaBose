@@ -57,7 +57,7 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://metrics.lecoq.io/CoderVedaBose?template=classic&isocalendar=1&languages=1&activity=1"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=CoderVedaBose&show_icons=true" />
 </p>
 
 ---
