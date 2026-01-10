@@ -58,7 +58,9 @@
 ## 📊 GitHub Metrics
 
 <p align="center">
-  <img src="https://metrics.lecoq.io/CoderVedaBose?template=classic&isocalendar=1&languages=1&activity=1" />
+  <img
+<br> src="https://metrics.lecoq.io/CoderVedaBose?template=classic&isocalendar=1&languages=1&activity=1" />
+<br>
 
 <img src="https://github-readme-stats.vercel.app/api?username=CoderVedaBose&show_icons=true&theme=tokyonight" height="165"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=CoderVedaBose&theme=tokyonight" height="165"/>
