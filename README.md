@@ -1,20 +1,25 @@
-<h1 align="center">Hi 👋, I'm Bedanto Bose</h1>
-<h3 align="center">🚀 Python Developer | 📊 Data Science Enthusiast</h3>
-
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=500&lines=Python+Developer;Data+Science+Enthusiast;Learning+DSA+%26+Machine+Learning;Love+Solving+Real-World+Problems" alt="Typing SVG" />
+  <img src="./assets/banner.svg" alt="Bedanto Bose - Python Developer | Data Science Enthusiast" width="100%" />
 </p>
 
----
+<p align="center">
+  <img src="./assets/skills-marquee.svg" alt="Skills" width="100%" />
+</p>
+
+<img src="./assets/divider.svg" alt="divider" width="100%" />
 
 ## 🧑‍💻 About Me
+
+<p align="center">
+  <img src="./assets/desk-scene.svg" alt="Animated developer desk" width="80%" />
+</p>
 
 - 🚀 Passionate **Python Developer** & **Data Science Enthusiast**
 - 🌱 Currently exploring **DSA, Machine Learning & Frontend Development**
 - ⚡ Love solving **real-world problems** using code
 - 📈 Interested in data-driven decision making and analytics
 
----
+<img src="./assets/divider.svg" alt="divider" width="100%" />
 
 ## 🛠️ Skills & Tech Stack
 
@@ -32,11 +37,10 @@
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
 </p>
 
+- **Machine Learning:** scikit-learn
+- **Database:** SQL
 
-- **Machine Learning:** scikit-learn  
-- **Database:** SQL  
-
----
+<img src="./assets/divider.svg" alt="divider" width="100%" />
 
 ## 🌐 Connect with Me
 
@@ -52,6 +56,6 @@
   </a>
 </p>
 
----
+<img src="./assets/divider.svg" alt="divider" width="100%" />
 
-✨ **"Code. Learn. Analyze. Innovate."** 🚀
+<p align="center">✨ <b>"Code. Learn. Analyze. Innovate."</b> 🚀</p>
