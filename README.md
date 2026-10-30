@@ -1,17 +1,17 @@
 <p align="center">
-  <img src="./assets/banner.svg" alt="Bedanto Bose - Python Developer | Data Science Enthusiast" width="100%" />
+  <img src="./banner.svg" alt="Bedanto Bose - Python Developer | Data Science Enthusiast" width="100%" />
 </p>
 
 <p align="center">
-  <img src="./assets/skills-marquee.svg" alt="Skills" width="100%" />
+  <img src="./skills-marquee.svg" alt="Skills" width="100%" />
 </p>
 
-<img src="./assets/divider.svg" alt="divider" width="100%" />
+<img src="./divider.svg" alt="divider" width="100%" />
 
 ## 🧑‍💻 About Me
 
 <p align="center">
-  <img src="./assets/desk-scene.svg" alt="Animated developer desk" width="80%" />
+  <img src="./desk-scene.svg" alt="Animated developer desk" width="80%" />
 </p>
 
 - 🚀 Passionate **Python Developer** & **Data Science Enthusiast**
@@ -19,7 +19,7 @@
 - ⚡ Love solving **real-world problems** using code
 - 📈 Interested in data-driven decision making and analytics
 
-<img src="./assets/divider.svg" alt="divider" width="100%" />
+<img src="./divider.svg" alt="divider" width="100%" />
 
 ## 🛠️ Skills & Tech Stack
 
@@ -40,7 +40,7 @@
 - **Machine Learning:** scikit-learn
 - **Database:** SQL
 
-<img src="./assets/divider.svg" alt="divider" width="100%" />
+<img src="./divider.svg" alt="divider" width="100%" />
 
 ## 🌐 Connect with Me
 
@@ -56,6 +56,6 @@
   </a>
 </p>
 
-<img src="./assets/divider.svg" alt="divider" width="100%" />
+<img src="./divider.svg" alt="divider" width="100%" />
 
 <p align="center">✨ <b>"Code. Learn. Analyze. Innovate."</b> 🚀</p>
